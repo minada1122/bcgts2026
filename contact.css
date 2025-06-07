@@ -39,7 +39,7 @@ body{
 	font-size: 25px;
 	text-decoration: none;
 	font-weight: 500;
-	margin-left: 35px;
+	margin-left: 15px;
 	transition: .3s;
 	opacity: 0;
 	animation: slideTop 1.5s ease forwards;
